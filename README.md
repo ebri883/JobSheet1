@@ -40,13 +40,17 @@
 ![alt text](https://github.com/ebri883/JobSheet1/blob/master/13.PNG)
 
 * No 3 Praktikum <br>
-![alt text](https://github.com/ebri883/JobSheet1/blob/master/14.PNG)
+![alt text](https://github.com/ebri883/JobSheet1/blob/master/14.PNG) <br>
+
+# Soal JobSheet1
 
 * Soal Latihan 4 <br>
 ![alt text](https://github.com/ebri883/JobSheet1/blob/master/15.PNG)
 
 * Soal Latihan 10 <br>
-![alt text](https://github.com/ebri883/JobSheet1/blob/master/16.PNG)
+![alt text](https://github.com/ebri883/JobSheet1/blob/master/16.PNG) <br>
+
+# Lanjutan JobSheet1
 
 * Lanjutan Latihan 1 <br>
 ![alt text](https://github.com/ebri883/JobSheet1/blob/master/17.PNG)
